@@ -19,11 +19,7 @@ a:hover{
   text-decoration: none;
   transform: scale (7);
 }
-ul{
-  text-decoration:none;
-  displa:block;
-  transform: scale (1);
-}
+
 ul:hover{
   transform: scale (5);
 }
@@ -113,6 +109,7 @@ input {
   justify-content: space-between;
   margin: 20px 0;
   font-size: 18px;
+  transform: scale (1);
 }
 
 .carrot-button:hover {
