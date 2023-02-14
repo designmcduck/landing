@@ -13,11 +13,11 @@
 }
 a{
   text-decoration: none;
-  transform: scale 1;
+  transform: scale (1.5);
 }
 a:hover{
   text-decoration: none;
-  transform: scale 100;
+  transform: scale (100);
 }
 
 p {
