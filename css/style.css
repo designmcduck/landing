@@ -13,7 +13,6 @@
 }
 a{
   text-decoration: none;
-  transform: hover scale 10
 }
 p {
   font-family: 'Roboto';
@@ -87,6 +86,7 @@ input {
 .header-navigation ul li {
   margin: 0 30px;
   cursor: pointer;
+  transform: hover scale 10
 }
 
 .header-navigation ul {
