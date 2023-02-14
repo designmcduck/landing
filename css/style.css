@@ -19,7 +19,7 @@ a:hover{
   text-decoration: none;
   transform: scale 100;
 }
-header-navigatiom{
+li:link{
   text-decoration: none;
   transform: scale 100;
 }
