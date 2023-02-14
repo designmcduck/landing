@@ -15,6 +15,10 @@ a{
   text-decoration: none;
   transform: scale 100;
 }
+a:hover{
+  text-decoration: none;
+  transform: scale 100;
+}
 
 p {
   font-family: 'Roboto';
@@ -58,7 +62,6 @@ input {
   width: 1200px;
   height: 100%;
   margin: 0 auto;
-  transform: scale 100;
 }
 
 .header-wrapper {
@@ -84,7 +87,6 @@ input {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  transform: scale 100;
 }
 
 .header-navigation ul li {
