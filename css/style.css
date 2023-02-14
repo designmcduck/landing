@@ -13,7 +13,11 @@
 }
 a{
   text-decoration: none;
+  transform: scale 10;
 }
+a:hover{
+  color: red;
+  transform: scale 10;
 p {
   font-family: 'Roboto';
   font-style: normal;
