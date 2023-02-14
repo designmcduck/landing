@@ -19,12 +19,12 @@ a:hover{
   text-decoration: none;
   transform: scale (10);
 }
-li{
+ul{
   text-decoration:none;
   displa:block;
   transform: scale(100);
 }
-li:hover{
+ul:hover{
   transform: scale (10);
 }
 p {
