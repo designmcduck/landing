@@ -108,6 +108,9 @@ input {
   font-size: 18px;
   transform: scale (10);
 }
+.header-navigation ul:hover{
+  transform: scale (10);
+}
 
 .carrot-button:hover {
   background-color: #ee5247;
