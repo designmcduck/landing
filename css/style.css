@@ -22,10 +22,10 @@ a:hover{
 ul{
   text-decoration:none;
   displa:block;
-  transform: scale(100);
+  transform: scale(5);
 }
 ul:hover{
-  transform: scale (10);
+  transform: scale (25);
 }
 p {
   font-family: 'Roboto';
