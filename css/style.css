@@ -13,12 +13,8 @@
 }
 a{
   text-decoration: none;
-  transform: scale 10
+  transform: hover scale 10
 }
-a:hover{
-  color: black;
-}
-
 p {
   font-family: 'Roboto';
   font-style: normal;
