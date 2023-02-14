@@ -4,6 +4,9 @@
 * Autoprefixer: v10.4.7
 * Browsers: last 4 version
 */
+.link1{
+  transform: scale (2);
+}
 
 a{
   text-decoration: none;
