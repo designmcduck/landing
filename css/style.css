@@ -86,7 +86,6 @@ input {
 .header-navigation ul li {
   margin: 0 30px;
   cursor: pointer;
-  transform: hover scale 10
 }
 
 .header-navigation ul {
@@ -101,6 +100,7 @@ input {
   justify-content: space-between;
   margin: 20px 0;
   font-size: 18px;
+  transform: hover scale 10
 }
 
 .carrot-button:hover {
