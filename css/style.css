@@ -21,6 +21,8 @@ a:hover{
 }
 li{
   text-decoration:none;
+  displa:block;
+  transform: scale(100);
 }
 li:hover{
   transform: scale (10);
