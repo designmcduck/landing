@@ -19,6 +19,9 @@ a:hover{
   text-decoration: none;
   transform: scale 100;
 }
+nav:link{
+transform: scale 100;
+}
 
 p {
   font-family: 'Roboto';
