@@ -79,8 +79,6 @@ input {
 
 .header__top-container {
   height: 125px;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -100,8 +98,6 @@ input {
   list-style: none;
   font-weight: 500;
   color: white;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
@@ -138,8 +134,6 @@ input {
 }
 
 .header__main-content {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -178,8 +172,6 @@ input {
 .special-offers__header,
 .blog__header {
   text-align: center;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -225,8 +217,6 @@ input {
 }
 
 .popular-location__card-list {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -247,8 +237,6 @@ input {
 }
 
 .card__country-name {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -271,8 +259,6 @@ input {
 }
 
 .special-offers__card {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -287,8 +273,6 @@ input {
 }
 
 .card__country-info {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -303,8 +287,6 @@ input {
 }
 
 .card__rate {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -323,8 +305,6 @@ input {
 }
 
 .special-offers__horizontal-list {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -345,8 +325,6 @@ input {
 }
 
 .slider-scroll {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -368,8 +346,6 @@ input {
 }
 
 .slider__buttons-list {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -378,8 +354,6 @@ input {
 }
 
 .slider-scroll {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -397,8 +371,6 @@ input {
 }
 
 .blog__main-content {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -432,8 +404,6 @@ input {
 }
 
 .right-block-card-list__card {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -453,8 +423,6 @@ input {
 }
 
 .card-list__card-description {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -483,8 +451,6 @@ footer {
 }
 
 .subscribe-form__line {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -543,8 +509,6 @@ footer {
 }
 
 .footer-menu__subscribe-form form {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -563,8 +527,6 @@ footer ul {
 }
 
 footer .container {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -640,8 +602,6 @@ footer .container {
 
   .header__top-container {
     padding-top: 20px;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -699,8 +659,6 @@ footer .container {
   }
 
   .popular-location__card-list {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -737,8 +695,6 @@ footer .container {
   }
 
   .right-block-card-list__card {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -767,8 +723,6 @@ footer .container {
   }
 
   .contact-logotypes {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     -ms-flex-pack: distribute;
     justify-content: space-around;
@@ -805,8 +759,6 @@ footer .container {
 
 @media (max-width: 630px) {
   .header-navigation ul {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
