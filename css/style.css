@@ -11,22 +11,13 @@
 
   font-family: 'Roboto', sans-serif;
 }
-a{
-  text-decoration: none;
-  transform: scale (0.5);
-}
 
-a:hover{
-  text-decoration: none;
-  transform: scale (2);
-}
 p {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 160%;
-  transform: scale (5);
 }
 
 h2 {
@@ -91,7 +82,6 @@ input {
 .header-navigation ul li {
   margin: 0 30px;
   cursor: pointer;
-  transform: scale (2);
 }
 
 .header-navigation ul {
@@ -104,7 +94,6 @@ input {
   justify-content: space-between;
   margin: 20px 0;
   font-size: 18px;
-  transform: scale (20);
 }
 
 .carrot-button:hover {
@@ -820,3 +809,11 @@ footer .container {
     margin: 0 auto;
   }
 }
+a{
+  text-decoration: none;
+  transform: scale (0.5);
+}
+
+a:hover{
+  text-decoration: none;
+  transform: scale (2);
