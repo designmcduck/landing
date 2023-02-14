@@ -14,6 +14,7 @@
 
 a{
   text-decoration: none;
+  transform: scale (0.5);
 }
 
 a:hover{
@@ -86,12 +87,12 @@ input {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  transform: scale (2);
 }
 
 .header-navigation ul li {
   margin: 0 30px;
   cursor: pointer;
+  transform: scale (2);
 }
 
 .header-navigation ul {
@@ -104,7 +105,7 @@ input {
   justify-content: space-between;
   margin: 20px 0;
   font-size: 18px;
-  transform: scale (5);
+  transform: scale (20);
 }
 
 .carrot-button:hover {
