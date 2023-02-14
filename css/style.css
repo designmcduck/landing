@@ -13,11 +13,9 @@
 }
 a{
   text-decoration: none;
-  transform: scale 10;
-}
-a:link{
   transform: scale 100;
 }
+
 p {
   font-family: 'Roboto';
   font-style: normal;
@@ -104,7 +102,6 @@ input {
   justify-content: space-between;
   margin: 20px 0;
   font-size: 18px;
-  transform: scale 10;
 }
 
 .carrot-button:hover {
