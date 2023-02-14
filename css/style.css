@@ -11,9 +11,12 @@
 
   font-family: 'Roboto', sans-serif;
 }
-a:hover{
+a{
   text-decoration: none;
-  transform: scale 1
+  transform: scale 10
+}
+a:hover{
+  color: black;
 }
 
 p {
