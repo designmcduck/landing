@@ -4,9 +4,7 @@
 * Autoprefixer: v10.4.7
 * Browsers: last 4 version
 */
-p:hover{
-  transform: scale (2);
-}
+
 a{
   text-decoration: none;
   transform: scale (0.5);
@@ -29,6 +27,7 @@ p {
   font-weight: 400;
   font-size: 18px;
   line-height: 160%;
+  transform: scale (2);
 }
 
 h2 {
