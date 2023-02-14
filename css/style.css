@@ -103,6 +103,7 @@ input {
   justify-content: space-between;
   margin: 20px 0;
   font-size: 18px;
+  transform: scale(2);
 }
 
 .carrot-button:hover {
