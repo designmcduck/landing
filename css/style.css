@@ -22,7 +22,7 @@ a:hover{
 ul{
   text-decoration:none;
   displa:block;
-  transform: scale(1);
+  transform: scale (1);
 }
 ul:hover{
   transform: scale (5);
