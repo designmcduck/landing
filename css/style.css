@@ -11,6 +11,19 @@
 
   font-family: 'Roboto', sans-serif;
 }
+.header-navigation ul:hover {
+    list-style: none;
+    font-weight: 500;
+    color: white;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin: 20px 0;
+    font-size: 18px;
+    transform: scale(1.5);
 a{
   text-decoration: none;
   transform: scale (1.5);
@@ -20,9 +33,6 @@ a:hover{
   transform: scale (7);
 }
 
-ul:hover{
-  transform: scale (5);
-}
 p {
   font-family: 'Roboto';
   font-style: normal;
@@ -109,7 +119,7 @@ input {
   justify-content: space-between;
   margin: 20px 0;
   font-size: 18px;
-  transform: scale (1);
+  transform: scale (5);
 }
 
 .carrot-button:hover {
