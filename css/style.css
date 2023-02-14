@@ -12,11 +12,11 @@
   font-family: 'Roboto', sans-serif;
 }
 
-a{
+.a{
   text-decoration: none;
-  transform: scale (1.5);
 }
-a:hover{
+
+.a:hover{
   text-decoration: none;
   transform: scale (7);
 }
