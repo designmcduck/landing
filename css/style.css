@@ -19,7 +19,12 @@ a:hover{
   text-decoration: none;
   transform: scale (10);
 }
-
+li{
+  text-decoration:none;
+}
+li:hover{
+  transform: scale (10);
+}
 p {
   font-family: 'Roboto';
   font-style: normal;
