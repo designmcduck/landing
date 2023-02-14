@@ -4,7 +4,9 @@
 * Autoprefixer: v10.4.7
 * Browsers: last 4 version
 */
-
+p:hover{
+  transform: scale (2);
+}
 a{
   text-decoration: none;
   transform: scale (0.5);
@@ -103,9 +105,6 @@ input {
   justify-content: space-between;
   margin: 20px 0;
   font-size: 18px;
-}
-.header-navigation:hover{
-  transform: scale (5);
 }
 
 .carrot-button:hover {
