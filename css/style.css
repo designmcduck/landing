@@ -4,11 +4,11 @@
 * Autoprefixer: v10.4.7
 * Browsers: last 4 version
 */
+
 .header-navigation ul li:hover {
-  margin: 0 30px;
-  cursor: pointer;
   transform: scale(10);
 }
+
 a{
   text-decoration: none;
   transform: scale(0.5);
