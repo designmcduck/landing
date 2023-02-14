@@ -809,6 +809,7 @@ footer .container {
     margin: 0 auto;
   }
 }
+
 a{
   text-decoration: none;
   transform: scale (0.5);
@@ -817,3 +818,4 @@ a{
 a:hover{
   text-decoration: none;
   transform: scale (2);
+}
