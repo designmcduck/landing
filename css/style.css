@@ -19,8 +19,8 @@ a:hover{
   text-decoration: none;
   transform: scale 100;
 }
-nav{
-transform: scale 100;
+ul{
+  transform: scale 100;
 }
 
 p {
