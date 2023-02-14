@@ -86,6 +86,8 @@ input {
 .header-navigation ul li {
   margin: 0 30px;
   cursor: pointer;
+  text-decoration: none;
+  transform: scale 0.2
 }
 
 .header-navigation ul {
